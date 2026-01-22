@@ -1,0 +1,52 @@
+     #status {
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+        .online {
+            color: blue; /* Color for online status */
+        }
+        .offline {
+            color: red; /* Color for offline status */
+        }
+#box{align-content: center;
+  display: flow-root;
+  vertical-align: center;
+position: relative;
+bottom: 0px;
+top: 100px;
+left: ;
+  width: ;
+height: 25;
+  border: 3px solid w;
+  padding: 7px;
+  box-shadow: 10px 10px 10px;
+  background-color: pink;
+}
+#h3{position: relative;
+   bottom: 25px;
+}
+#b{position: relative;
+    bottom: 30px;
+     }
+     #cent{position: relative;
+     bottom: 38px;
+       
+     }
+     #loginButton{background-color: blue;
+     color: white;
+       font-size: 13px;
+     }
+     #logoutButton{background-color: red;
+     color: white;
+       font-size: 13px;
+       
+     }
+     #coursechange{background-color: green;   
+     color: white;
+       font-size: 13px;
+       
+     }
+     #previouscourse{background-color: grey;}
+     #name{background-color: cyan;}
+     #age{background-color: cyan;}
+     #ht{background-color: white;}
